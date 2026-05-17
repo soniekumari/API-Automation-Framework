@@ -1,0 +1,10 @@
+M:\API-Automation-Framework\src\main\java\api\endpoints\PetEndPoints.java
+M:\API-Automation-Framework\src\main\java\api\endpoints\StoreEndPoints.java
+M:\API-Automation-Framework\src\main\java\api\endpoints\UserEndPoints.java
+M:\API-Automation-Framework\src\main\java\api\payload\Category.java
+M:\API-Automation-Framework\src\main\java\api\payload\Pet.java
+M:\API-Automation-Framework\src\main\java\api\payload\Store.java
+M:\API-Automation-Framework\src\main\java\api\payload\Tag.java
+M:\API-Automation-Framework\src\main\java\api\payload\User.java
+M:\API-Automation-Framework\src\main\java\api\routes\Routes.java
+M:\API-Automation-Framework\src\main\java\api\utilities\ExtendReportManager.java
